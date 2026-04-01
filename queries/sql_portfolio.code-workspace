@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "sql_portfolio",
+			"path": "../sql_portfolio"
+		},
+		{
+			"name": "50daysqlchallenge",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"ssh": "Disabled",
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "sql",
+				"username": "root",
+				"database": "50_days_sql_challenge",
+				"password": "!Success123"
+			}
+		]
+	}
+}
