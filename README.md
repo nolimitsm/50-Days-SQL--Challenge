@@ -1,12 +1,12 @@
-"# 50-Days-SQL--Challenge" 
-## Day 2: Identify NULL values and Missing Values (Handling Missing Values)
+## Day 3: Data Cleaning (Handling Missing Values)
 
 ### Objective
-Identify NULL values and missing values in dataset
+Clean the dataset by handling missing values across multiple tables.
 
 ### Tasks Completed
 - Created cleaned versions of tables (employees_clean, departments_clean, performance_clean)
-- Identified NULL and empty values for later cleaning
+- Converted empty values into NULL for consistency
+- Replaced NULL and empty values with appropriate defaults
 
 ### Key Learning
 - NULL and empty values are different but both need to be handled
